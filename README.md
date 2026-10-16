@@ -1,4 +1,4 @@
-<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22dmcdonald7299-gif%22%2C%22name%22%3A%22Duane%20McDonald%22%2C%22email%22%3A%22dmcdonald7299%40gmail.com%22%2C%22linkedin%22%3A%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fduane-mcdonald-1616b848%2F%3Flipi%3Durn%253Ali%253Apage%253Ad_flagship3_profile_view_base_contact_details%253BIukrN2y0Tw66tLUInvXFjQ%253D%253D%22%2C%22resume%22%3A%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fduane-mcdonald-1616b848%2F%3Flipi%3Durn%253Ali%253Apage%253Ad_flagship3_profile_view_base_contact_details%253BIukrN2y0Tw66tLUInvXFjQ%253D%253D%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22dmcdonald7299-gif%22%2C%22name%22%3A%22Duane%20McDonald%22%2C%22email%22%3A%22dmcdonald7299%40gmail.com%22%2C%22linkedin%22%3A%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fduane-mcdonald-1616b848%2F%3Flipi%3Durn%253Ali%253Apage%253Ad_flagship3_profile_view_base_contact_details%253BIukrN2y0Tw66tLUInvXFjQ%253D%253D%22%2C%22resume%22%3A%22https%3A%2F%2Fwww.linkedin.com%2Fin%2Fduane-mcdonald-1616b848%2F%3Flipi%3Durn%253Ali%253Apage%253Ad_flagship3_profile_view_base_contact_details%253BIukrN2y0Tw66tLUInvXFjQ%253D%253D%22%2C%22bio%22%3A%22Aspiring%20new%20IT%20professional%20with%20an%20emphasis%20on%20AI%20and%20Cyber%20Security%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%5D%2C%22headlines%22%3A%5B%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
 
 <div align="center">
 
@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-*Add your professional summary above to display it here.*
+Aspiring new IT professional with an emphasis on AI and Cyber Security
 
 ---
 
